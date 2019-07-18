@@ -1,0 +1,57 @@
+,Category,CategoryID,Measure,MeasureId,Data_Value_Type,Short_Question_Text
+0,Prevention,PREVENT,Current lack of health insurance among adults aged 18–64 Years,ACCESS2,Age-adjusted prevalence,Health Insurance
+1,Prevention,PREVENT,Current lack of health insurance among adults aged 18–64 Years,ACCESS2,Crude prevalence,Health Insurance
+2,Health Outcomes,HLTHOUT,Arthritis among adults aged >=18 Years,ARTHRITIS,Age-adjusted prevalence,Arthritis
+3,Health Outcomes,HLTHOUT,Arthritis among adults aged >=18 Years,ARTHRITIS,Crude prevalence,Arthritis
+4,Unhealthy Behaviors,UNHBEH,Binge drinking among adults aged >=18 Years,BINGE,Age-adjusted prevalence,Binge Drinking
+5,Unhealthy Behaviors,UNHBEH,Binge drinking among adults aged >=18 Years,BINGE,Crude prevalence,Binge Drinking
+6,Health Outcomes,HLTHOUT,High blood pressure among adults aged >=18 Years,BPHIGH,Age-adjusted prevalence,High Blood Pressure
+7,Health Outcomes,HLTHOUT,High blood pressure among adults aged >=18 Years,BPHIGH,Crude prevalence,High Blood Pressure
+8,Prevention,PREVENT,Taking medicine for high blood pressure control among adults aged >=18 Years with high blood pressure,BPMED,Age-adjusted prevalence,Taking BP Medication
+9,Prevention,PREVENT,Taking medicine for high blood pressure control among adults aged >=18 Years with high blood pressure,BPMED,Crude prevalence,Taking BP Medication
+10,Health Outcomes,HLTHOUT,Cancer (excluding skin cancer) among adults aged >=18 Years,CANCER,Age-adjusted prevalence,Cancer (except skin)
+11,Health Outcomes,HLTHOUT,Cancer (excluding skin cancer) among adults aged >=18 Years,CANCER,Crude prevalence,Cancer (except skin)
+12,Health Outcomes,HLTHOUT,Current asthma among adults aged >=18 Years,CASTHMA,Age-adjusted prevalence,Current Asthma
+13,Health Outcomes,HLTHOUT,Current asthma among adults aged >=18 Years,CASTHMA,Crude prevalence,Current Asthma
+14,Health Outcomes,HLTHOUT,Coronary heart disease among adults aged >=18 Years,CHD,Age-adjusted prevalence,Coronary Heart Disease
+15,Health Outcomes,HLTHOUT,Coronary heart disease among adults aged >=18 Years,CHD,Crude prevalence,Coronary Heart Disease
+16,Prevention,PREVENT,Visits to doctor for routine checkup within the past Year among adults aged >=18 Years,CHECKUP,Age-adjusted prevalence,Annual Checkup
+17,Prevention,PREVENT,Visits to doctor for routine checkup within the past Year among adults aged >=18 Years,CHECKUP,Crude prevalence,Annual Checkup
+18,Prevention,PREVENT,Cholesterol screening among adults aged >=18 Years,CHOLSCREEN,Age-adjusted prevalence,Cholesterol Screening
+19,Prevention,PREVENT,Cholesterol screening among adults aged >=18 Years,CHOLSCREEN,Crude prevalence,Cholesterol Screening
+20,Prevention,PREVENT,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50–75 Years",COLON_SCREEN,Age-adjusted prevalence,Colorectal Cancer Screening
+21,Prevention,PREVENT,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50–75 Years",COLON_SCREEN,Crude prevalence,Colorectal Cancer Screening
+22,Health Outcomes,HLTHOUT,Chronic obstructive pulmonary disease among adults aged >=18 Years,COPD,Age-adjusted prevalence,COPD
+23,Health Outcomes,HLTHOUT,Chronic obstructive pulmonary disease among adults aged >=18 Years,COPD,Crude prevalence,COPD
+24,Prevention,PREVENT,Papanicolaou smear use among adult women aged 21–65 Years,PAPTEST,Crude prevalence,Pap Smear Test
+25,Prevention,PREVENT,"Older adult men aged >=65 Years who are up to date on a core set of clinical preventive services: Flu shot past Year, PPV shot ever, Colorectal cancer screening",COREM,Age-adjusted prevalence,Core preventive services for older men
+26,Prevention,PREVENT,"Older adult men aged >=65 Years who are up to date on a core set of clinical preventive services: Flu shot past Year, PPV shot ever, Colorectal cancer screening",COREM,Crude prevalence,Core preventive services for older men
+27,Prevention,PREVENT,"Older adult women aged >=65 Years who are up to date on a core set of clinical preventive services: Flu shot past Year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 Years",COREW,Age-adjusted prevalence,Core preventive services for older women
+28,Prevention,PREVENT,"Older adult women aged >=65 Years who are up to date on a core set of clinical preventive services: Flu shot past Year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 Years",COREW,Crude prevalence,Core preventive services for older women
+29,Unhealthy Behaviors,UNHBEH,Current smoking among adults aged >=18 Years,CSMOKING,Age-adjusted prevalence,Current Smoking
+30,Unhealthy Behaviors,UNHBEH,Current smoking among adults aged >=18 Years,CSMOKING,Crude prevalence,Current Smoking
+31,Prevention,PREVENT,Visits to dentist or dental clinic among adults aged >=18 Years,DENTAL,Age-adjusted prevalence,Dental Visit
+32,Prevention,PREVENT,Visits to dentist or dental clinic among adults aged >=18 Years,DENTAL,Crude prevalence,Dental Visit
+33,Health Outcomes,HLTHOUT,Diagnosed diabetes among adults aged >=18 Years,DIABETES,Age-adjusted prevalence,Diabetes
+34,Health Outcomes,HLTHOUT,Diagnosed diabetes among adults aged >=18 Years,DIABETES,Crude prevalence,Diabetes
+35,Health Outcomes,HLTHOUT,High cholesterol among adults aged >=18 Years who have been screened in the past 5 Years,HIGHCHOL,Age-adjusted prevalence,High Cholesterol
+36,Health Outcomes,HLTHOUT,High cholesterol among adults aged >=18 Years who have been screened in the past 5 Years,HIGHCHOL,Crude prevalence,High Cholesterol
+37,Health Outcomes,HLTHOUT,Chronic kidney disease among adults aged >=18 Years,KIDNEY,Age-adjusted prevalence,Chronic Kidney Disease
+38,Health Outcomes,HLTHOUT,Chronic kidney disease among adults aged >=18 Years,KIDNEY,Crude prevalence,Chronic Kidney Disease
+39,Unhealthy Behaviors,UNHBEH,No leisure-time physical activity among adults aged >=18 Years,LPA,Age-adjusted prevalence,Physical Inactivity
+40,Unhealthy Behaviors,UNHBEH,No leisure-time physical activity among adults aged >=18 Years,LPA,Crude prevalence,Physical Inactivity
+41,Prevention,PREVENT,Mammography use among women aged 50–74 Years,MAMMOUSE,Age-adjusted prevalence,Mammography
+42,Prevention,PREVENT,Mammography use among women aged 50–74 Years,MAMMOUSE,Crude prevalence,Mammography
+43,Health Outcomes,HLTHOUT,Mental health not good for >=14 days among adults aged >=18 Years,MHLTH,Age-adjusted prevalence,Mental Health
+44,Health Outcomes,HLTHOUT,Mental health not good for >=14 days among adults aged >=18 Years,MHLTH,Crude prevalence,Mental Health
+45,Unhealthy Behaviors,UNHBEH,Obesity among adults aged >=18 Years,OBESITY,Age-adjusted prevalence,Obesity
+46,Unhealthy Behaviors,UNHBEH,Obesity among adults aged >=18 Years,OBESITY,Crude prevalence,Obesity
+47,Prevention,PREVENT,Papanicolaou smear use among adult women aged 21–65 Years,PAPTEST,Age-adjusted prevalence,Pap Smear Test
+48,Health Outcomes,HLTHOUT,Physical health not good for >=14 days among adults aged >=18 Years,PHLTH,Age-adjusted prevalence,Physical Health
+49,Health Outcomes,HLTHOUT,Physical health not good for >=14 days among adults aged >=18 Years,PHLTH,Crude prevalence,Physical Health
+50,Unhealthy Behaviors,UNHBEH,Sleeping less than 7 hours among adults aged >=18 Years,SLEEP,Age-adjusted prevalence,Sleep <7 hours
+51,Unhealthy Behaviors,UNHBEH,Sleeping less than 7 hours among adults aged >=18 Years,SLEEP,Crude prevalence,Sleep <7 hours
+52,Health Outcomes,HLTHOUT,Stroke among adults aged >=18 Years,STROKE,Age-adjusted prevalence,Stroke
+53,Health Outcomes,HLTHOUT,Stroke among adults aged >=18 Years,STROKE,Crude prevalence,Stroke
+54,Health Outcomes,HLTHOUT,All teeth lost among adults aged >=65 Years,TEETHLOST,Age-adjusted prevalence,Teeth Loss
+55,Health Outcomes,HLTHOUT,All teeth lost among adults aged >=65 Years,TEETHLOST,Crude prevalence,Teeth Loss

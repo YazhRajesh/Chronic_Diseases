@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: addfips
+Version: 0.2.2
+Summary: Add county FIPS to tabular data
+Home-page: http://github.com/fitnr/addfips
+Author: Neil Freeman
+Author-email: contact@fakeisthenewreal.org
+License: GPL-3.0
+Description: UNKNOWN
+Keywords: csv census usa data
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Natural Language :: English
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Operating System :: OS Independent

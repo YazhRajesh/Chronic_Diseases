@@ -1,0 +1,5 @@
+print('Ridge Model Tested on Unseen Data')
+ridge = Ridge(alpha=best_alpha)
+ridge.fit(Xtrain_obesity[~arr_obesity],ytrain_obesity[~arr_obesity])
+ypred = ridge.predict(Xtest_obesity)
+print('Score on holdout data: {:.4f}'.format(r2_score(ytest_obesity,ypred)))

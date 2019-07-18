@@ -1,0 +1,11 @@
+README.md
+setup.py
+addfips/__init__.py
+addfips/addfips.py
+addfips/cli.py
+addfips.egg-info/PKG-INFO
+addfips.egg-info/SOURCES.txt
+addfips.egg-info/dependency_links.txt
+addfips.egg-info/entry_points.txt
+addfips.egg-info/not-zip-safe
+addfips.egg-info/top_level.txt

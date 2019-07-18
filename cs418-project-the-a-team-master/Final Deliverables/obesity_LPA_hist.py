@@ -1,0 +1,12 @@
+fig, [ax0,ax1,ax2] = plt.subplots(1,3,figsize=(15,5))
+
+data[data['lpaQuantile']==0]['OBESITY'].hist(bins=50,ax=ax0)
+ax0.set_title('<20% LPA (Less people report low activity)')
+ax0.set_xlabel('Obesity rate %')
+data[data['lpaQuantile']==1]['OBESITY'].hist(bins=50,ax=ax1)
+ax1.set_title('Middle 60% LPA Percentages')
+ax1.set_xlabel('Obesity rate %')
+data[data['lpaQuantile']==2]['OBESITY'].hist(bins=50,ax=ax2)
+ax2.set_title('>80% LPA (More people report low activity)')
+ax2.set_xlabel('Obesity rate %')
+plt.show()

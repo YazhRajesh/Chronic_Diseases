@@ -1,0 +1,16 @@
+fig,[ax0,ax1] = plt.subplots(1,2,figsize=(15,5))
+data.OBESITY.hist(ax=ax0,bins=30,normed=True)
+ax0.set_title('Obesity Histogram')
+ax0.set_xlabel('Obesity rate %')
+
+n = len(unhealthypiv.SLEEP)
+x = unhealthypiv.SLEEP.sort_values()
+y = np.arange(1,n+1)/n
+x_theor = sorted(np.random.normal(x.mean(),x.std(),n))
+ax1.plot(x,y,marker='.',linestyle='none',label='Sleep Distribution')
+ax1.plot(x_theor,y,marker='.',linestyle='none',label='Hacker Normal Distribution',markersize=4)
+plt.xlabel('% Lack Of Sleep')
+plt.ylabel('ecdf')
+plt.title('Cumulative Density Function Sleep Distribution vs Theoretial Normal Distribution')
+plt.legend()
+plt.show()
